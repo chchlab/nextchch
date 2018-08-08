@@ -6,7 +6,7 @@ https://www.ch.ch is a Swiss eGovernment information service for the public. It 
 The goals are: 
 
 - ch.ch does not only answer specific user questions (e.g.: How much does learning to drive cost? https://www.ch.ch/en/cost-learning-drive/) but presents this answer as part of a process (e.g.: How to obtain a learners driving licence) 
--	ch.ch is part of a linked government information system and makes use of data which allready exists. 
+-	ch.ch is part of a linked government information system and makes use of data which already exists. 
 - realize a prototype to illustrate the model and to prove the feasibility. 
 
 ## What do we mean by "linked government information system"?
@@ -29,7 +29,7 @@ We propose to build a linked government information system. Whoever produces and
 
 To get there we need new production systems, better statistical information about users, better internal communication (who does what when and how?) and standards for the structuring, contextualising and publishing of information. 
 
-## Who does this allready?
+## Who does this already?
 
 A well-known application of linked open data is the Wikipedia ecosystem. Highly structured items in Wikidata are used in the Wikipedia, in Wikicommons, in Wikimedia and elsewhere. However, we do not want to build and maintain a huge database as Wikidata. We want each content provider to produce the information about government services which it is responsible for, but share this information as open data. 
 
